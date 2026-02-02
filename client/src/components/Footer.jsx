@@ -13,7 +13,8 @@ export default function Footer() {
           <h4>Shop</h4>
           <Link to="/comics">Browse Comics</Link>
           <Link to="/merch">Merch</Link>
-          <Link to="/cart">Cart</Link>
+          <Link to="/shop">Shopify Store</Link>
+          <Link to="/shop/cart">Cart</Link>
           <Link to="/rewards">Rewards</Link>
         </div>
         <div className="footer-links">
