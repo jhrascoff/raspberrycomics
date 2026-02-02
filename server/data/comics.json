@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "The Raspberry Ranger",
+    "author": "Callum S.",
+    "price": 4.99,
+    "description": "When a mysterious fruit grants ordinary librarian Sam powers beyond imagination, the Raspberry Ranger is born. Follow Sam as they protect Berry City from the villainous Sourpatch.",
+    "genre": "Superhero",
+    "issue": 1,
+    "color": "#D81B60"
+  },
+  {
+    "id": 2,
+    "title": "Cosmic Drift",
+    "author": "Jasper R.",
+    "price": 5.99,
+    "description": "A lone pilot drifts through the remnants of a collapsed galaxy, searching for a signal that could lead humanity to a new home.",
+    "genre": "Sci-Fi",
+    "issue": 1,
+    "color": "#1565C0"
+  },
+  {
+    "id": 3,
+    "title": "Bone Hollow",
+    "author": "Callum S.",
+    "price": 3.99,
+    "description": "In the forgotten town of Bone Hollow, the dead don't stay buried. A young mortician must uncover the truth before the next full moon.",
+    "genre": "Horror",
+    "issue": 1,
+    "color": "#2E7D32"
+  },
+  {
+    "id": 4,
+    "title": "The Raspberry Ranger",
+    "author": "Callum S.",
+    "price": 4.99,
+    "description": "Sourpatch returns with an army of citrus soldiers. The Raspberry Ranger must team up with an unlikely ally — the Blueberry Brawler.",
+    "genre": "Superhero",
+    "issue": 2,
+    "color": "#D81B60"
+  },
+  {
+    "id": 5,
+    "title": "Neon Ronin",
+    "author": "Jasper R.",
+    "price": 6.99,
+    "description": "In a rain-soaked cyberpunk Tokyo, a disgraced samurai-turned-hacker fights corporate overlords with a plasma katana and righteous fury.",
+    "genre": "Cyberpunk",
+    "issue": 1,
+    "color": "#FF6F00"
+  },
+  {
+    "id": 6,
+    "title": "Cosmic Drift",
+    "author": "Jasper R.",
+    "price": 5.99,
+    "description": "The signal leads to an alien megastructure. But the crew of the Perseverance isn't alone — something ancient is watching.",
+    "genre": "Sci-Fi",
+    "issue": 2,
+    "color": "#1565C0"
+  },
+  {
+    "id": 7,
+    "title": "Wildbloom",
+    "author": "Callum S.",
+    "price": 4.49,
+    "description": "A botanical witch tends her enchanted garden at the edge of the world. Each flower holds a memory — and some memories bite back.",
+    "genre": "Fantasy",
+    "issue": 1,
+    "color": "#7B1FA2"
+  },
+  {
+    "id": 8,
+    "title": "Neon Ronin",
+    "author": "Jasper R.",
+    "price": 6.99,
+    "description": "The mega-corp Zaibatsu has unleashed a digital plague. The Ronin must jack into the mainframe and face a ghost from his past.",
+    "genre": "Cyberpunk",
+    "issue": 2,
+    "color": "#FF6F00"
+  }
+]

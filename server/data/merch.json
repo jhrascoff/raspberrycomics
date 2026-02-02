@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Raspberry Ranger Tee",
+    "category": "Apparel",
+    "price": 29.99,
+    "description": "100% cotton graphic tee featuring the Raspberry Ranger in an iconic action pose. Unisex fit, preshrunk, printed with eco-friendly inks.",
+    "color": "#D81B60",
+    "icon": "👕",
+    "sizes": ["S", "M", "L", "XL", "2XL"]
+  },
+  {
+    "id": 2,
+    "name": "Cosmic Drift Hoodie",
+    "category": "Apparel",
+    "price": 54.99,
+    "description": "Heavyweight pullover hoodie with the Cosmic Drift nebula design across the chest. Fleece-lined, kangaroo pocket, ribbed cuffs.",
+    "color": "#1565C0",
+    "icon": "🧥",
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 3,
+    "name": "Neon Ronin Cap",
+    "category": "Accessories",
+    "price": 24.99,
+    "description": "Structured snapback cap with embroidered Neon Ronin katana logo. Adjustable snap closure, curved brim.",
+    "color": "#FF6F00",
+    "icon": "🧢",
+    "sizes": ["One Size"]
+  },
+  {
+    "id": 4,
+    "name": "Bone Hollow Mug",
+    "category": "Drinkware",
+    "price": 16.99,
+    "description": "Ceramic 11oz mug with wraparound Bone Hollow graveyard artwork. Microwave and dishwasher safe.",
+    "color": "#2E7D32",
+    "icon": "☕",
+    "sizes": ["One Size"]
+  },
+  {
+    "id": 5,
+    "name": "Wildbloom Enamel Pin Set",
+    "category": "Accessories",
+    "price": 12.99,
+    "description": "Set of 4 hard enamel pins featuring enchanted flowers from Wildbloom. Gold-plated with butterfly clutch backs.",
+    "color": "#7B1FA2",
+    "icon": "📌",
+    "sizes": ["One Size"]
+  },
+  {
+    "id": 6,
+    "name": "Raspberry Comics Tote Bag",
+    "category": "Accessories",
+    "price": 19.99,
+    "description": "Heavy-duty canvas tote with the Raspberry Comics logo. Perfect for carrying your haul from the comic shop. Reinforced handles.",
+    "color": "#D81B60",
+    "icon": "👜",
+    "sizes": ["One Size"]
+  },
+  {
+    "id": 7,
+    "name": "Cosmic Drift Poster",
+    "category": "Art",
+    "price": 14.99,
+    "description": "18x24 inch premium matte poster featuring the Cosmic Drift Issue #1 cover art. Printed on 200gsm archival paper.",
+    "color": "#1565C0",
+    "icon": "🖼️",
+    "sizes": ["18x24", "24x36"]
+  },
+  {
+    "id": 8,
+    "name": "Neon Ronin Sticker Pack",
+    "category": "Accessories",
+    "price": 8.99,
+    "description": "Pack of 10 die-cut vinyl stickers featuring characters and scenes from Neon Ronin. Waterproof, UV resistant.",
+    "color": "#FF6F00",
+    "icon": "✨",
+    "sizes": ["One Size"]
+  },
+  {
+    "id": 9,
+    "name": "Raspberry Ranger Action Figure",
+    "category": "Collectibles",
+    "price": 39.99,
+    "description": "6-inch articulated action figure of the Raspberry Ranger with interchangeable hands and berry blast accessory. Limited edition run.",
+    "color": "#D81B60",
+    "icon": "🦸",
+    "sizes": ["One Size"]
+  },
+  {
+    "id": 10,
+    "name": "Bone Hollow Blanket",
+    "category": "Home",
+    "price": 44.99,
+    "description": "Ultra-soft fleece throw blanket with the Bone Hollow full moon cemetery scene. 50x60 inches, machine washable.",
+    "color": "#2E7D32",
+    "icon": "🛋️",
+    "sizes": ["50x60"]
+  }
+]
